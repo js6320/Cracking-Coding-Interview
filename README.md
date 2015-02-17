@@ -1,2 +1,2 @@
-# Cracking-Coding-Interview-C-
-solutions for selected cracking the coding interview book problems in C++
+# Cracking-Coding-Interview
+solutions for selected cracking the coding interview book(5th edition) problems in C++
