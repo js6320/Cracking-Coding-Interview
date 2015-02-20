@@ -5,9 +5,10 @@ using namespace std;
 struct Node {
 	int data;
 	Node *next;
-}*head;
+};
 
 class LinkedList {
+    Node *head;
   public:
   	LinkedList(){//constructor
   		head = NULL;

@@ -62,7 +62,7 @@ int main(){
 		linked_list.add(i);
 	}
 	linked_list.display();
-	linked_list.Delete(6);//delete 4th element
+	linked_list.Delete(6);//delete 6th element
 	linked_list.display();
 
 	return 0;
